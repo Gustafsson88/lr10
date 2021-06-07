@@ -45,8 +45,7 @@ int main(int argc, char** argv) {
     output = vm["output"].as<std::string>();
 
     new_dbcs.init_log(log_level);
-    //создать тестовую
-    //    new_dbcs.create_start_db(thread_count, db_path, output);
+    //new_dbcs.create_start_db(thread_count, db_path, output);
     new_dbcs.read_db(thread_count, db_path, output);
 
   } catch (std::exception& ex) {

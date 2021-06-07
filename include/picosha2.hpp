@@ -1,4 +1,4 @@
-// Copyright 2021 <elizavetamaikova>>
+// Copyright 2021 Alexandr Guchkov <firer.a45@gmail.com>
 #ifndef INCLUDE_PICOSHA2_HPP_
 #define INCLUDE_PICOSHA2_HPP_
 

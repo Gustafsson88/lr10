@@ -1,4 +1,4 @@
-// Copyright 2021 <elizavetamaikova>
+// Copyright 2021 Alexandr Guchkov <firer.a45@gmail.com>
 
 #ifndef INCLUDE_DBCS_HPP_
 #define INCLUDE_DBCS_HPP_

@@ -1,4 +1,4 @@
-// Copyright 2020 Your Name <your_email>
+// Copyright 2021 Alexandr Guchkov <firer.a45@gmail.com>
 
 #include <gtest/gtest.h>
 
